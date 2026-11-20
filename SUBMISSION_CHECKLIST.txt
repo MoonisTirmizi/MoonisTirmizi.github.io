@@ -1,0 +1,14 @@
+COP 3835 FINAL PROJECT - ACTIONS YOU MUST COMPLETE
+[ ] Review and personalize name, education, project descriptions, and images.
+[ ] Test website at 375px, 768px, 1280px and keyboard-only navigation.
+[ ] Conduct one REAL usability test; document 2 observations and 1 improvement.
+[ ] Run Lighthouse on your PUBLISHED website; enter 4 real scores and a specific optimization.
+[ ] Test published site in TWO browsers; record actual results.
+[ ] Replace performance and usability worksheet PDFs with completed reports.
+[ ] Create public GitHub repository named YOUR_ACTUAL_USERNAME.github.io.
+[ ] Make at least 5 meaningful commits, reflecting actual work.
+[ ] Enable GitHub Pages from main /(root), confirm published site loads.
+[ ] Replace MoonisTirmizi in README.md and github_links.txt with exact username.
+[ ] Confirm full real repository and published site URLs in BOTH files.
+[ ] Recreate final ZIP with completed PDFs and URLs; submit one ZIP to Canvas.
+[ ] Paste both full GitHub URLs into Canvas submission comments.
