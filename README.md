@@ -49,6 +49,13 @@ I tested my portfolio website using Google Chrome and Microsoft Edge. The homepa
 
 Published website: https://moonistirmizi.github.io/
 ## Project Gallery
+## Accessibility Features
+
+My portfolio uses semantic HTML elements, descriptive headings, and labeled form fields to make the website easier to navigate.
+
+The website includes a skip-to-content link, visible keyboard focus indicators, and a responsive mobile navigation menu. Images include alternative text descriptions.
+
+The contact form provides validation feedback, and the layout adjusts to different screen sizes.
 
 My portfolio includes three featured project examples that demonstrate web development, interface design, and cybersecurity interests.
 
