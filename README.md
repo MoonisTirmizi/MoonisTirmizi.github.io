@@ -1,6 +1,6 @@
 # Moonis Tirmizi — Personal Portfolio
 
-A responsive, accessible student portfolio built for COP 3835. **This is a starter portfolio with illustrative project descriptions; review and personalize all claims before publishing.**
+A responsive, accessible student portfolio built for COP 3835. 
 
 ## Features
 - Five sections: Home, About, Skills, Projects, Contact
@@ -16,7 +16,7 @@ HTML5, CSS3, JavaScript, Git, GitHub Pages.
 ## Local usage
 Open `index.html` in a browser. No build tools required. Contact form is a local demonstration only and **does not send messages**.
 
-## GitHub links — UPDATE BEFORE SUBMITTING
+## GitHub links 
 GitHub Repository URL: https://github.com/MoonisTirmizi/MoonisTirmizi.github.io
 Published Website URL: https://MoonisTirmizi.github.io/
 
