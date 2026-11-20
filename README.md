@@ -32,3 +32,19 @@ See `documentation/performance_report.pdf` and `documentation/usability_testing.
 4. In Settings > Pages, select Deploy from a branch, `main`, `/(root)`.
 5. Verify the public URL, test mobile/tablet/desktop, and update both URL files.
 6. Zip the final folder and submit one ZIP in Canvas, with both full URLs also in submission comments.
+7. ## Website Testing Results
+
+I tested my portfolio website using Google Chrome and Microsoft Edge. The homepage, navigation links, project gallery, contact form, and theme toggle worked correctly.
+
+### Responsive Design Testing
+- Mobile (375px): The mobile menu opened and the navigation links worked.
+- Tablet (768px): The website displayed correctly.
+- Desktop (1280px): The navigation, text, and images displayed correctly.
+
+### Interactive Features
+- Dark/light theme toggle: Passed.
+- Contact form required-field validation: Passed.
+- Contact form success feedback: Passed.
+- Mobile navigation dropdown: Passed.
+
+Published website: https://moonistirmizi.github.io/
