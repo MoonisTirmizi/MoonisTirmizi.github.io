@@ -62,3 +62,22 @@ My portfolio includes three featured project examples that demonstrate web devel
 The project gallery is generated dynamically using JavaScript. Visitors can browse the project cards and use category filters to explore different types of work.
 
 Each project includes a description and a JPG image. The gallery uses CSS Grid to adjust its layout for mobile, tablet, and desktop screens.
+WEBSITE TESTING COMPLETED - November 20, 2026
+
+[PASS] Homepage loads in Google Chrome
+[PASS] Homepage loads in Microsoft Edge
+[PASS] Navigation links work
+[PASS] Mobile menu opens and navigates correctly at 375px
+[PASS] Tablet layout checked at 768px
+[PASS] Desktop layout checked at 1280px
+[PASS] Dark/light theme toggle works
+[PASS] Contact form required-field validation works
+[PASS] Contact form success feedback works
+[PASS] Project gallery displays in Microsoft Edge
+
+STILL REQUIRED:
+[ ] Complete Lighthouse audit and performance report
+[ ] Conduct usability test with one person and complete report
+[ ] Verify five meaningful commits
+[ ] Update final ZIP with latest files
+[ ] Submit ZIP and both URLs through Canvas
