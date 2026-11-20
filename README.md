@@ -48,3 +48,10 @@ I tested my portfolio website using Google Chrome and Microsoft Edge. The homepa
 - Mobile navigation dropdown: Passed.
 
 Published website: https://moonistirmizi.github.io/
+## Project Gallery
+
+My portfolio includes three featured project examples that demonstrate web development, interface design, and cybersecurity interests.
+
+The project gallery is generated dynamically using JavaScript. Visitors can browse the project cards and use category filters to explore different types of work.
+
+Each project includes a description and a JPG image. The gallery uses CSS Grid to adjust its layout for mobile, tablet, and desktop screens.
